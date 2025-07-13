@@ -1,0 +1,16 @@
+[project]
+name = "parte0"
+version = "0.0"
+description = "proyect keras.model"
+authors = [
+    {name = "Felipe Cáceres"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
